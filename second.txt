@@ -1,1 +1,2 @@
 hello .this is my local repo.and i prepare to stroe it in my github.
+hello ,this is my second edit.
